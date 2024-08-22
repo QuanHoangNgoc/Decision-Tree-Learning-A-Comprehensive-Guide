@@ -19,7 +19,7 @@ This repository is designed for:
 ### 🎬 **Demo & Results**
 To see the decision tree in action, check out the [Google Colab demo](https://colab.research.google.com/drive/1oFhCdeEUeVT21CSJTo5KT00ACeNxCnqL?usp=sharing) and the associated [GitHub source code](https://github.com/QuanHoangNgoc/All_Decision_Tree_Hoang_Ngoc_Quan_22521178). These demos walk you through building and visualizing decision trees, allowing you to grasp how they function in practice.
 
-<img src="https://github.com/user-attachments/assets/1a61dbdf-aaa2-4bd5-8214-3d7cf76099f2" alt="Demo" width="600"/>
+<img src="https://github.com/user-attachments/assets/1a61dbdf-aaa2-4bd5-8214-3d7cf76099f2" alt="Demo" width="450"/>
 
 ---
 ## 🛠️ **How did we do it?**
